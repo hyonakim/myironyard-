@@ -36,3 +36,8 @@ h1, h2 {
   background-color: #EBEBEB;
   border-radius: 10px;
 }
+
+#logo {
+  padding-top: 30px;
+  margin-left: 230px;
+}
