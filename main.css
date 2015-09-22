@@ -1,0 +1,28 @@
+body {
+  background-color: #CACACA;  
+}
+
+header {
+  padding-bottom: 150px;
+}
+
+.navbar {
+  margin-left: 200px;
+}
+
+.navbar li {
+  float: left;
+  display: inline;
+  padding: 10px;
+  background-color: #EBEBEB;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #115353;
+  font-family: verdana;
+}
+
+.navbar li a:hover {
+  color: red;
+}
