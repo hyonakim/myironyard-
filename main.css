@@ -8,11 +8,12 @@ header {
 
 .navbar {
   margin-left: 200px;
+
 }
 
 .navbar li {
   float: left;
-  display: inline;
+  display: inline-block;
   padding: 10px;
   background-color: #EBEBEB;
 }
@@ -29,6 +30,10 @@ header {
 
 h1, h2 {
   font-family: verdana, sans-serif;
+}
+
+.allh1 {
+  display: block;
 }
 
 .container1 {
