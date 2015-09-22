@@ -26,3 +26,13 @@ header {
 .navbar li a:hover {
   color: red;
 }
+
+h1, h2 {
+  font-family: verdana, sans-serif;
+}
+
+.container1 {
+  padding: 3px;
+  background-color: #EBEBEB;
+  border-radius: 10px;
+}
