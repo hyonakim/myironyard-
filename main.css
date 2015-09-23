@@ -6,8 +6,12 @@ header {
   padding-bottom: 150px;
 }
 
+header img {
+  width: 100%;
+}
+
 .navbar {
-  margin-left: 200px;
+  margin-left: 450px;
 
 }
 
@@ -32,19 +36,18 @@ h1, h2 {
   font-family: verdana, sans-serif;
 }
 
-.allh1 {
-  display: block;
-}
-
 .container1 {
+  max-height: 1000px;
+  width: 100%;
   padding: 3px;
   background-color: #EBEBEB;
   border-radius: 10px;
+  position: absolute;
 }
 
 #logo {
-  padding-top: 30px;
-  margin-left: 450px;
+  padding: 30px 10px 10px 10px;
+  float: left;
 }
 
 #firstday {
@@ -61,5 +64,7 @@ h1, h2 {
 }
 
 footer {
-  padding-top: 20px;
+  margin-top: 500px;
+  width: 100%;
+  position: relative;
 }
